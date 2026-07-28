@@ -1,4 +1,4 @@
-# Large Language Model Deployment Guide Based on RKLLM SDK (AIBOX-3588)
+# LLM Deployment Guide Based on RKLLM SDK (AIBOX-3588)
 ## RKLLM Introduction
 The RKLLM SDK helps users quickly deploy large language models onto AIBOX-3588.
 
