@@ -1,4 +1,7 @@
 # 基于 RKLLM SDK 的大语言模型部署指南（AIBOX-3588）
+
+[**English**](../README.md) | **简体中文**
+
 ## RKLLM 介绍
 RKLLM SDK可以帮助用户快速将大语言模型部署到AIBOX-3588上。
 
